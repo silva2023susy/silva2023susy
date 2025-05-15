@@ -21,7 +21,7 @@ Connect with me:
   </a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/susy-silva-a87b302a9">
+  <a href="https://www.linkedin.com/in/susysilvamycode">
   <img align="left" alt="linkedin-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </p>
